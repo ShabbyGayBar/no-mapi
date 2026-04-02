@@ -1,0 +1,5 @@
+﻿INJECT:urbanization = {
+	modifier = {
+		state_market_access_price_impact = 0.5
+	}
+}
