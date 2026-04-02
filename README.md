@@ -1,5 +1,10 @@
 # No MAPI
 
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3697599937?logo=steam)
+![Steam Downloads](https://img.shields.io/steam/downloads/3697599937?logo=steam)
+
+[简体中文](documentation/README_zh-CN.md)
+
 This mod removes the market access price impact (MAPI) mechanics introduced in the 1.5 update by setting the initial local market access impact to **100%**.
 
 With this mod, there will be **no profit loss** from mismatches between the local market price and the global market price.
