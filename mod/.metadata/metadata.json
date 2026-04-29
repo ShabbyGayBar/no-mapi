@@ -1,9 +1,9 @@
 {
     "name": "No MAPI",
     "id": "3697599937",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "picture": "thumbnail.png",
-    "supported_game_version": "1.12.*",
+    "supported_game_version": "",
     "short_description": "Disable the Market Access Price Impact mechanic",
     "tags": ["Balance", "Economy And Buildings", "Gameplay"],
     "relationships": [],
